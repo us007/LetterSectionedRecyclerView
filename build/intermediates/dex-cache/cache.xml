@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\744c324c0909a388b3a3f5f7e7f488c1085f1881\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0c2ef09572ca3e3c1b450bbfa7946cd228f4e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\3efc55b504783c136982a4b8c70ad9813f3cce39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_858ab0edab281efd815f64f3bc6af3da6ff4c459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\b2145d8d28d4966d85d994f000ab4e865d72b7df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6852f7e331c33c6220b01ea6656fb075528c40ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\ca2d05d1580ae9fab562ce8ff171a356b466f285\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a47f976b20e53de2f837a0ed719c9a92fe820a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\de7166638e0bc1b65f2a3ad404d65f673cf935dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f3cadbcee9534c19186067416e99b0498d0ae6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\e96ca21068d91b70a1cc329e40071cd746a005ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_386ea039fab86255332f4dc3d8d4b543f9fcc517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\dad7ef02c253f81bc126212829b0c3831ce471d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_316d664b7bc7dbe3739374808be34881184a46be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_155453e4c2beb485ae0c94c97e1603a05d97fd5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1ef272753faadbd46061ac930cfe631543ad31d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LetterSectionedRecyclerView-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88fca8fbf15045a165d0e2a141dbe0348cb7d757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\a040bdf284b0dc9282ec0d05740e862e9e8cab45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3cfbc8db850b73b5de273cbc63e086a8d15867d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\7d1059476ffbd76a340bd9a40ae64f9f4cf3d5c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5036ee3567e505e6c1d4189b23985b37f5d4b9e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LetterSectionedRecyclerView-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="860d7a469427fe9be41e9fa868d35d907ab5fe91">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_11325edfe0b72549f52548ef802f05191f98daa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\9aa86789340608ee72080d9fa5dcab80d2bdc39a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c4ddff4f0bda7be119f398bcdedd70e05b604bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utsav\.android\build-cache\c277beeb8d152fd1ed4a390c72d898dec6233a6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\LetterSectionedRecyclerView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46665f31ad6b629f41f1277c6c257e5bad8bc032\classes.dex" />
+    </item>
+
+</items>
